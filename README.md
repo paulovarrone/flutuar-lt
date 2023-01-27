@@ -1,2 +1,2 @@
 # flutuar-lt
-![image](https://user-images.githubusercontent.com/100317569/215084436-93b303d2-a7b0-4ce2-b204-5f0cfa002e89.png)
+![image](https://user-images.githubusercontent.com/100317569/215190172-cea9ae5d-1845-4377-ac1f-2a802fbee65e.png)
