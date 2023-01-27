@@ -17,6 +17,7 @@ h1 {
     margin-top: 32px;
     margin-bottom: 16px;
     font-weight: normal;
+    line-height: 40px;
 }
 
 h1 span{
@@ -24,6 +25,12 @@ h1 span{
     font-weight: bold;
 }
 
+.t1 {
+  font-size: 15px;
+  max-width: 540px;
+  margin: auto;
+  line-height: 22px;
+}
 
 p strong {
     color: #3F3D56;
@@ -37,7 +44,8 @@ p span {
 
 .t2 {
     margin-top: 32px;
-    
+    font-size: 15px;
+    line-height: 20px;
 }
 
 #footer {
@@ -58,6 +66,7 @@ p span {
     font-weight: bold;
     text-decoration: none;
     color: inherit;
+    font-size: 15px;
    
 }
 
@@ -69,7 +78,7 @@ p span {
 }
 
 #wave {
-    position: fixed;
+    position: absolute;
     bottom: 0px;
     left: 0px;
     width: 100%;
