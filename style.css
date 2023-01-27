@@ -15,6 +15,7 @@ h1 {
     font-family: 'Dosis', sans-serif;
     color: #3F3D56;
     margin-top: 32px;
+    font-size: 32px;
     margin-bottom: 16px;
     font-weight: normal;
     line-height: 40px;
@@ -28,6 +29,7 @@ h1 span{
 .t1 {
   margin: auto;
   line-height: 22px;
+  
 }
 
 p strong {
