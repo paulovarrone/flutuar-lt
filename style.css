@@ -26,8 +26,6 @@ h1 span{
 }
 
 .t1 {
-  font-size: 15px;
-  max-width: 540px;
   margin: auto;
   line-height: 22px;
 }
@@ -44,7 +42,6 @@ p span {
 
 .t2 {
     margin-top: 32px;
-    font-size: 15px;
     line-height: 20px;
 }
 
@@ -66,7 +63,7 @@ p span {
     font-weight: bold;
     text-decoration: none;
     color: inherit;
-    font-size: 15px;
+    
    
 }
 
